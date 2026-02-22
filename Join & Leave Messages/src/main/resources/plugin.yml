@@ -1,0 +1,6 @@
+name: Wi-JoinandLeave
+version: '1.0'
+main: com.ash.wiJoinandLeave.WiJoinandLeave
+api-version: '1.21'
+author: Ash
+description: Join and Leave Message when Player Joins or Leaves !
